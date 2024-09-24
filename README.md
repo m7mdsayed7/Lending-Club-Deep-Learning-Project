@@ -23,6 +23,12 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), can we build a model that can predict whether or not a borrower will pay back their loan? This way in the future when we get a new potential customer we can assess whether or not they are likely to pay back the loan. The "loan_status" column contains our label.
 
+## The Data:
+
+I will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
+
+### NOTE: I am using a special version of this file that has some extra feature engineering  to do. 
+
 # Important Note: There are two different models done using different ways of data cleaning and preprocessing to reach the best possible accuracy.
 
 
